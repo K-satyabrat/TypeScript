@@ -1,0 +1,14 @@
+1.why TypeScript
+2.Installation
+3.understanding TypeScript types and thier usage(string,numbers,boolean)
+4.TypeScript compiler fundamentals and configuration options
+5.ES6 features in TypeScript
+6.TypeScript classes and object-oriented programming
+7.Type Alias
+8.Interfaces
+9.Generics
+10.Type Assertion/Type Casting
+11.Type Guards
+12.Building applications with TypeScript and ReactJS(Todo App)
+13.Developing with TypeScript and ReactJS(Todo APP)
+14.Practical projects and real-world applications
