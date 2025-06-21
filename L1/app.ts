@@ -1,4 +1,4 @@
-// core_types ---> number,string & boolean
+// In TypeScript generally 3 core-datatypes ---> number,string & boolean
 function add(
   num1: number,
   num2: number,
